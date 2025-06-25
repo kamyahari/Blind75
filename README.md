@@ -1,4 +1,4 @@
 # Blind75
 My solutions for the Blind 75 problems in C++
 
-Organized in the neetcode structure
+Organized based on topics
